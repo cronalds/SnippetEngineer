@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "90b297f09939ddde",
+            "id": "6b29d7afc4cc7d29",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/LL(k) parser design 2.md",
+                "file": "Clippings/Snippet engine blueprint 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LL(k) parser design 2"
+              "title": "Snippet engine blueprint 1"
             }
           }
         ]
@@ -169,13 +169,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "90b297f09939ddde",
+  "active": "6b29d7afc4cc7d29",
   "lastOpenFiles": [
-    "Clippings/LL(k) parser design 1.md",
-    "Clippings/LL(k) parser design 2.md",
-    "Clippings/LL(k) parser design.md",
+    "all.md",
+    "Clippings/Snippet engine blueprint 1.md",
+    "Clippings/Snippet engine blueprint.md",
     "Clippings/Software Engineering DSL Review.md",
+    "Clippings/LL(k) parser design 2.md",
     "Welcome.md",
+    "Clippings/LL(k) parser design 1.md",
+    "Clippings/LL(k) parser design.md",
     "Clippings"
   ]
 }
